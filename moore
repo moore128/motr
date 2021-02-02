@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+   
+<meta charset="UTF-8">
+<title>博愛國中登入網站</title>
+<div align=center><h1> 單一入口 </h1></div>
+</head>
+<body>
+
+
+</body>
+<form action="Untitled-1.html" method="get">
+  
+  <div align=center> <b> 帳號: </b><input autocomplete="on" type="email" placeholder="電子郵件帳號" required> </div> 
+  <div align=center> <b> 密碼: </b><input type="password" autocomplete="on" minlength="8" maxlength="20" required placeholder="密碼(請輸入8-20字元)"> </div>
+<div align=center> <input type="image"
+       src="/media/examples/login-button.png"
+       alt="Login"
+       width="100" height="30"></div> 
+
+</form>
+<div align=center> 
+<pre> 
+一、製作人:林孟緯
+二、此網站並無任何威脅
+三、我知道這做的很爛，所以不要有意見，不然你來做，看你多厲害!
+</pre> 
+</div> 
+
+<div align=center><a href="http://www.pajh.hcc.edu.tw/" target="_blank"><img src="https://iplay.sa.gov.tw/Upload/photogym/20140630180111_%E5%8D%9A%E6%84%9B%E5%9C%8B%E4%B8%AD1.jpg" width=25%></a></div>
+</html>
+
+
